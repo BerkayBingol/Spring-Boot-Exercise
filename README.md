@@ -3,7 +3,7 @@
 
 
 
-Spring boot exercise, the general structure is MVC.
+Spring boot exercise.
 
 
 
